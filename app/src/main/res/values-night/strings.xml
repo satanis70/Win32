@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start_new_game">Start new game</string>
+    <string name="again">Again</string>
+    <string name="victory">Victory</string>
+</resources>
